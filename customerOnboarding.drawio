@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="29.2.9">
+  <diagram name="Page-1" id="lOr4vQc9RKznEsTsebJ_">
+    <mxGraphModel dx="590" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Lx_7fPswAjpmlxatD2q-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FE APP" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5Lx_7fPswAjpmlxatD2q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/customers" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5Lx_7fPswAjpmlxatD2q-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
