@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="29.2.9">
   <diagram name="Page-1" id="R5Iu_PoR5Lj6awXrE0Fv">
-    <mxGraphModel dx="621" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1073" dy="3053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,6 +136,21 @@
         </mxCell>
         <mxCell id="dA-WQqhqhHeUCK0NPZAn-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="resend OTP and again has 60s to be enter" vertex="1">
           <mxGeometry height="76.25" width="60" x="732.5" y="803.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6JADBC3fW_SuSoyXPaz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API" vertex="1">
+          <mxGeometry height="30" width="60" x="582.5" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6JADBC3fW_SuSoyXPaz-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API" vertex="1">
+          <mxGeometry height="30" width="60" x="730" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6JADBC3fW_SuSoyXPaz-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="1055" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6JADBC3fW_SuSoyXPaz-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API" vertex="1">
+          <mxGeometry height="30" width="60" x="662.5" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6JADBC3fW_SuSoyXPaz-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API" vertex="1">
+          <mxGeometry height="30" width="60" x="902.5" y="1050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
