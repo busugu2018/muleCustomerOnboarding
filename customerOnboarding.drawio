@@ -7,11 +7,29 @@
         <mxCell id="5Lx_7fPswAjpmlxatD2q-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FE APP" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="5Lx_7fPswAjpmlxatD2q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/customers" vertex="1">
+        <mxCell id="5Lx_7fPswAjpmlxatD2q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/customers&lt;div&gt;dig-customer-EAPI&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="180" as="geometry" />
         </mxCell>
         <mxCell id="5Lx_7fPswAjpmlxatD2q-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XiG2MasHH4kKnjIqex1t-1" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5Lx_7fPswAjpmlxatD2q-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="1000" as="sourcePoint" />
+            <mxPoint x="330" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiG2MasHH4kKnjIqex1t-2" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="259.5" y="1000" as="sourcePoint" />
+            <mxPoint x="259.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiG2MasHH4kKnjIqex1t-3" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="419.5" y="1000" as="sourcePoint" />
+            <mxPoint x="419.5" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
