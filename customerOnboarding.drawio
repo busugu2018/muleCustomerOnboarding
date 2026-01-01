@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="29.2.9">
   <diagram name="Page-1" id="lOr4vQc9RKznEsTsebJ_">
-    <mxGraphModel dx="908" dy="2583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="621" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,21 @@
             <mxPoint x="100" y="760" as="sourcePoint" />
             <mxPoint x="420" y="760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XiG2MasHH4kKnjIqex1t-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/otp&amp;nbsp;&lt;div&gt;dig-interaction-SAPI-APP-V1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XiG2MasHH4kKnjIqex1t-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration&amp;nbsp;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XiG2MasHH4kKnjIqex1t-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration&amp;nbsp;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XiG2MasHH4kKnjIqex1t-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration&amp;nbsp;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XiG2MasHH4kKnjIqex1t-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration&amp;nbsp;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1160" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
