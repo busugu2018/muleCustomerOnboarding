@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VRElHoNStGTrszroR2Bq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VRElHoNStGTrszroR2Bq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="forgot credential" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="360" as="geometry" />
         </mxCell>
         <mxCell id="VRElHoNStGTrszroR2Bq-19" edge="1" parent="1" source="VRElHoNStGTrszroR2Bq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
@@ -18,31 +18,31 @@
         <mxCell id="VRElHoNStGTrszroR2Bq-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="VRElHoNStGTrszroR2Bq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VRElHoNStGTrszroR2Bq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Registration" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="120" as="geometry" />
         </mxCell>
         <mxCell id="VRElHoNStGTrszroR2Bq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="VRElHoNStGTrszroR2Bq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VRElHoNStGTrszroR2Bq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azure ADB2C" vertex="1">
           <mxGeometry height="80" width="120" x="520" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="VRElHoNStGTrszroR2Bq-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VRElHoNStGTrszroR2Bq-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="forgot password" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="VRElHoNStGTrszroR2Bq-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VRElHoNStGTrszroR2Bq-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Login" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="VRElHoNStGTrszroR2Bq-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VRElHoNStGTrszroR2Bq-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="customer file" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="VRElHoNStGTrszroR2Bq-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VRElHoNStGTrszroR2Bq-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DB" vertex="1">
           <mxGeometry height="80" width="120" x="520" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="VRElHoNStGTrszroR2Bq-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VRElHoNStGTrszroR2Bq-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3rd party API" vertex="1">
           <mxGeometry height="80" width="120" x="520" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="VRElHoNStGTrszroR2Bq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VRElHoNStGTrszroR2Bq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3rd party API" vertex="1">
           <mxGeometry height="80" width="120" x="520" y="600" as="geometry" />
         </mxCell>
         <mxCell id="VRElHoNStGTrszroR2Bq-15" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
