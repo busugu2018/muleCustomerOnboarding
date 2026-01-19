@@ -39,7 +39,7 @@
         <mxCell id="VRElHoNStGTrszroR2Bq-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DB" vertex="1">
           <mxGeometry height="80" width="120" x="520" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="VRElHoNStGTrszroR2Bq-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3rd party API" vertex="1">
+        <mxCell id="VRElHoNStGTrszroR2Bq-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Redis Object Store" vertex="1">
           <mxGeometry height="80" width="120" x="520" y="480" as="geometry" />
         </mxCell>
         <mxCell id="VRElHoNStGTrszroR2Bq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3rd party API" vertex="1">
