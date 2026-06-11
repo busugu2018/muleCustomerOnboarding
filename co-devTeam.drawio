@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="mtlJoINKiBxxS1mY9fly">
-    <mxGraphModel dx="1174" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="963" dy="2798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,21 @@
         </mxCell>
         <mxCell id="fKORbBSa5yKsCyyiaZ-d-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DEV 2" vertex="1">
           <mxGeometry height="30" width="60" x="510" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="660Z4Zx8cwlgpUBuX3Fi-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lead" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="660Z4Zx8cwlgpUBuX3Fi-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Task 1 - APP 1" vertex="1">
+          <mxGeometry height="30" width="110" x="30" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="660Z4Zx8cwlgpUBuX3Fi-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Task 2 - APP 2" vertex="1">
+          <mxGeometry height="30" width="110" x="30" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="660Z4Zx8cwlgpUBuX3Fi-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(236, 236, 236); text-decoration: none; float: none; display: inline !important;&quot;&gt;Task 3 - APP 1&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="35" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="660Z4Zx8cwlgpUBuX3Fi-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Task 4 - APP &amp;nbsp;1 &amp;amp; 2" vertex="1">
+          <mxGeometry height="30" width="120" x="35" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
