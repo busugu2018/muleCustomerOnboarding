@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15">
   <diagram name="Page-1" id="R5Iu_PoR5Lj6awXrE0Fv">
-    <mxGraphModel dx="1073" dy="3053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1381" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
         <mxCell id="dA-WQqhqhHeUCK0NPZAn-43" edge="1" parent="1" source="dA-WQqhqhHeUCK0NPZAn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="dA-WQqhqhHeUCK0NPZAn-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dA-WQqhqhHeUCK0NPZAn-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OTP has 60s to be enter" vertex="1">
+        <mxCell id="dA-WQqhqhHeUCK0NPZAn-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OTP has 10 mins to be entered" vertex="1">
           <mxGeometry height="50" width="60" x="582.5" y="810" as="geometry" />
         </mxCell>
         <mxCell id="dA-WQqhqhHeUCK0NPZAn-50" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.444;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
