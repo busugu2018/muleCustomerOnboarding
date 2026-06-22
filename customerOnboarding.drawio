@@ -7,10 +7,10 @@
         <mxCell id="5Lx_7fPswAjpmlxatD2q-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FE APP" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="5Lx_7fPswAjpmlxatD2q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/customers&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;" vertex="1">
+        <mxCell id="5Lx_7fPswAjpmlxatD2q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/customers&lt;div&gt;/search&lt;br&gt;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="5Lx_7fPswAjpmlxatD2q-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration&amp;nbsp;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;" vertex="1">
+        <mxCell id="5Lx_7fPswAjpmlxatD2q-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/customers&lt;div&gt;/registration&amp;nbsp;&lt;div&gt;&lt;div&gt;dig-customer-&lt;b&gt;EAPI&lt;/b&gt;-V1&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="180" as="geometry" />
         </mxCell>
         <mxCell id="XiG2MasHH4kKnjIqex1t-1" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5Lx_7fPswAjpmlxatD2q-1" value="">
@@ -49,19 +49,19 @@
             <mxPoint x="420" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XiG2MasHH4kKnjIqex1t-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/otp&amp;nbsp;&lt;div&gt;dig-interaction-SAPI-APP-V1&lt;/div&gt;" vertex="1">
+        <mxCell id="XiG2MasHH4kKnjIqex1t-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/customers&lt;div&gt;/registration&amp;nbsp;&lt;div&gt;dig-customer-&lt;b&gt;PAPI&lt;/b&gt;-V1&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="XiG2MasHH4kKnjIqex1t-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration&amp;nbsp;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;" vertex="1">
+        <mxCell id="XiG2MasHH4kKnjIqex1t-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/otp&amp;nbsp;&lt;div&gt;dig-interaction-PAPI-APP-V1&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="680" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="XiG2MasHH4kKnjIqex1t-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration&amp;nbsp;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;" vertex="1">
+        <mxCell id="XiG2MasHH4kKnjIqex1t-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/otp&amp;nbsp;&lt;div&gt;/verify&lt;br&gt;&lt;div&gt;dig-interaction-PAPI-APP-V1&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="840" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="XiG2MasHH4kKnjIqex1t-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration&amp;nbsp;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;" vertex="1">
+        <mxCell id="XiG2MasHH4kKnjIqex1t-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azure ADLS&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="1000" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="XiG2MasHH4kKnjIqex1t-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/registration&amp;nbsp;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;" vertex="1">
+        <mxCell id="XiG2MasHH4kKnjIqex1t-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ObjectStore" vertex="1">
           <mxGeometry height="60" width="120" x="1160" y="180" as="geometry" />
         </mxCell>
         <mxCell id="uG9X9UL_qjC9eYzAssvy-1" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
@@ -111,6 +111,42 @@
         </mxCell>
         <mxCell id="LG78vjNe9-bDN4MWOJ1E-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Action: Create OTP" vertex="1">
           <mxGeometry height="30" width="120" x="200" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="LG78vjNe9-bDN4MWOJ1E-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Database" vertex="1">
+          <mxGeometry height="60" width="120" x="1320" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LG78vjNe9-bDN4MWOJ1E-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OTP 3rd party" vertex="1">
+          <mxGeometry height="60" width="120" x="1480" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LG78vjNe9-bDN4MWOJ1E-9" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1379.23" y="1000" as="sourcePoint" />
+            <mxPoint x="1379.23" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LG78vjNe9-bDN4MWOJ1E-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1539.23" y="1000" as="sourcePoint" />
+            <mxPoint x="1539.23" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LG78vjNe9-bDN4MWOJ1E-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="510" as="sourcePoint" />
+            <mxPoint x="580" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LG78vjNe9-bDN4MWOJ1E-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="560" as="sourcePoint" />
+            <mxPoint x="1060" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LG78vjNe9-bDN4MWOJ1E-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1060" y="640" as="sourcePoint" />
+            <mxPoint x="580" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
