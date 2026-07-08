@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15">
   <diagram name="Page-1" id="lOr4vQc9RKznEsTsebJ_">
-    <mxGraphModel dx="6917" dy="6972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5109" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5Lx_7fPswAjpmlxatD2q-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FE APP" vertex="1">
+        <mxCell id="5Lx_7fPswAjpmlxatD2q-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="FE APP" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="5Lx_7fPswAjpmlxatD2q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET/customers&lt;div&gt;/search&lt;br&gt;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="5Lx_7fPswAjpmlxatD2q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="GET/customers&lt;div&gt;/search&lt;br&gt;&lt;div&gt;dig-customer-EAPI-V1&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="5Lx_7fPswAjpmlxatD2q-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/customers&lt;div&gt;/registration&amp;nbsp;&lt;div&gt;&lt;div&gt;dig-customer-&lt;b&gt;EAPI&lt;/b&gt;-V1&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="5Lx_7fPswAjpmlxatD2q-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="POST/customers&lt;div&gt;/registration&amp;nbsp;&lt;div&gt;&lt;div&gt;dig-customer-&lt;b&gt;EAPI&lt;/b&gt;-V1&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="180" as="geometry" />
         </mxCell>
         <mxCell id="XiG2MasHH4kKnjIqex1t-1" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5Lx_7fPswAjpmlxatD2q-1" value="">
@@ -49,19 +49,19 @@
             <mxPoint x="100" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XiG2MasHH4kKnjIqex1t-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/customers&lt;div&gt;/registration&amp;nbsp;&lt;div&gt;dig-customer-&lt;b&gt;PAPI&lt;/b&gt;-V1&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="XiG2MasHH4kKnjIqex1t-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="POST/customers&lt;div&gt;/registration&amp;nbsp;&lt;div&gt;dig-customer-&lt;b&gt;PAPI&lt;/b&gt;-V1&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="XiG2MasHH4kKnjIqex1t-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/otp&amp;nbsp;&lt;div&gt;dig-interaction-PAPI-APP-V1&lt;/div&gt;" vertex="1">
+        <mxCell id="XiG2MasHH4kKnjIqex1t-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="POST/otp&amp;nbsp;&lt;div&gt;dig-interaction-PAPI-APP-V1&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="680" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="XiG2MasHH4kKnjIqex1t-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/otp&amp;nbsp;&lt;div&gt;/verify&lt;br&gt;&lt;div&gt;dig-interaction-PAPI-APP-V1&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="XiG2MasHH4kKnjIqex1t-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="POST/otp&amp;nbsp;&lt;div&gt;/verify&lt;br&gt;&lt;div&gt;dig-interaction-PAPI-APP-V1&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="840" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="XiG2MasHH4kKnjIqex1t-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azure ADLS&amp;nbsp;" vertex="1">
+        <mxCell id="XiG2MasHH4kKnjIqex1t-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Azure ADLS&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="1000" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="XiG2MasHH4kKnjIqex1t-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ObjectStore" vertex="1">
+        <mxCell id="XiG2MasHH4kKnjIqex1t-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="ObjectStore" vertex="1">
           <mxGeometry height="60" width="120" x="1160" y="180" as="geometry" />
         </mxCell>
         <mxCell id="uG9X9UL_qjC9eYzAssvy-1" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
@@ -112,16 +112,16 @@
         <mxCell id="LG78vjNe9-bDN4MWOJ1E-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Action: Create OTP" vertex="1">
           <mxGeometry height="30" width="120" x="200" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="LG78vjNe9-bDN4MWOJ1E-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Database" vertex="1">
+        <mxCell id="LG78vjNe9-bDN4MWOJ1E-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Database" vertex="1">
           <mxGeometry height="60" width="120" x="1320" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="LG78vjNe9-bDN4MWOJ1E-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OTP 3rd party" vertex="1">
+        <mxCell id="LG78vjNe9-bDN4MWOJ1E-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="OTP 3rd party" vertex="1">
           <mxGeometry height="60" width="120" x="1480" y="180" as="geometry" />
         </mxCell>
         <mxCell id="LG78vjNe9-bDN4MWOJ1E-9" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1378.33" y="5020" as="sourcePoint" />
-            <mxPoint x="1378.56" y="-3630" as="targetPoint" />
+            <mxPoint x="1379.29" y="8900" as="sourcePoint" />
+            <mxPoint x="1379.52" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LG78vjNe9-bDN4MWOJ1E-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
