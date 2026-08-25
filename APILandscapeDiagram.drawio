@@ -73,7 +73,7 @@
             <mxPoint x="210" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRMFRGdhXabXhOhmspDL-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Registration&lt;div&gt;POST / Customer&lt;/div&gt;" vertex="1">
+        <mxCell id="DRMFRGdhXabXhOhmspDL-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="create OTP&lt;div&gt;POST / OTP&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="610" as="geometry" />
         </mxCell>
         <mxCell id="DRMFRGdhXabXhOhmspDL-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0rA73T7NV5QjQLV9XHn_-5" value="">
