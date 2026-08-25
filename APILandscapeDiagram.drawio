@@ -67,6 +67,21 @@
             <mxPoint x="450" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DRMFRGdhXabXhOhmspDL-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DRMFRGdhXabXhOhmspDL-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="470" as="sourcePoint" />
+            <mxPoint x="210" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DRMFRGdhXabXhOhmspDL-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Registration&lt;div&gt;POST / Customer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="DRMFRGdhXabXhOhmspDL-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0rA73T7NV5QjQLV9XHn_-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="670" as="sourcePoint" />
+            <mxPoint x="350" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
