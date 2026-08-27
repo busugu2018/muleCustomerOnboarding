@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="nJKeCsZ3gd5lDgofIdcd">
-    <mxGraphModel dx="1271" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,8 +49,8 @@
         <mxCell id="0rA73T7NV5QjQLV9XHn_-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Registration&lt;div&gt;POST / Customer / Registration&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="100" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="0rA73T7NV5QjQLV9XHn_-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Registration&lt;div&gt;POST / Customer / Registration&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="100" y="210" as="geometry" />
+        <mxCell id="0rA73T7NV5QjQLV9XHn_-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Registration&lt;div&gt;POST / Customer / Registration featureName: registration&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="100" y="210" as="geometry" />
         </mxCell>
         <mxCell id="0rA73T7NV5QjQLV9XHn_-18" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile;" value="" vertex="1">
           <mxGeometry height="78" width="78" x="360" y="42" as="geometry" />
@@ -80,6 +80,27 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="300" y="670" as="sourcePoint" />
             <mxPoint x="350" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BVRUjeo5HyKEVlT_9q_-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Forgot password&lt;div&gt;&lt;div&gt;POST / Customer / Registration featureName: Forgot password&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="260" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVRUjeo5HyKEVlT_9q_-4" edge="1" parent="1" source="0rA73T7NV5QjQLV9XHn_-18" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="8BVRUjeo5HyKEVlT_9q_-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="412.65" y="125.63" as="sourcePoint" />
+            <mxPoint x="189.65" y="214.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BVRUjeo5HyKEVlT_9q_-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Forgot password&lt;div&gt;&lt;div&gt;POST / Customer / Registration featureName: Forgot password&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="260" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVRUjeo5HyKEVlT_9q_-8" edge="1" parent="1" source="0rA73T7NV5QjQLV9XHn_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.544;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" target="0rA73T7NV5QjQLV9XHn_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BVRUjeo5HyKEVlT_9q_-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.583;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="0rA73T7NV5QjQLV9XHn_-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="285" as="sourcePoint" />
+            <mxPoint x="370" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
