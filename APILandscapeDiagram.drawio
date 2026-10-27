@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="nJKeCsZ3gd5lDgofIdcd">
-    <mxGraphModel dx="1080" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,6 +102,27 @@
             <mxPoint x="320" y="285" as="sourcePoint" />
             <mxPoint x="370" y="235" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sZMIjtSKiqspe6jxT1jP-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.637;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" target="0rA73T7NV5QjQLV9XHn_-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="670" as="sourcePoint" />
+            <mxPoint x="210" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZMIjtSKiqspe6jxT1jP-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="0rA73T7NV5QjQLV9XHn_-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="470" as="sourcePoint" />
+            <mxPoint x="470" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZMIjtSKiqspe6jxT1jP-7" edge="1" parent="1" source="sZMIjtSKiqspe6jxT1jP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZMIjtSKiqspe6jxT1jP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMIjtSKiqspe6jxT1jP-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Forgot password&lt;div&gt;&lt;div&gt;POST / Customer / Registration featureName: Forgot password&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="425" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMIjtSKiqspe6jxT1jP-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="create OTP&lt;div&gt;POST / OTP&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="435" y="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
