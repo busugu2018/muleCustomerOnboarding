@@ -148,6 +148,9 @@
             <mxPoint x="710" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sZMIjtSKiqspe6jxT1jP-15" edge="1" parent="1" source="sZMIjtSKiqspe6jxT1jP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.546;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="0rA73T7NV5QjQLV9XHn_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
